@@ -19,7 +19,7 @@
 - 🔍 Focused on **Web & Network Penetration Testing, Vulnerability Assessment, and Security Auditing**  
 - 🔵 Interested in **Blue Team Operations, Threat Detection, and Security Monitoring**  
 - ⚙️ Build **security tools, automation scripts, and security-focused web apps**  
-- 🚀 Always learning through **TryHackMe, and real-world security projects
+- 🚀 Always learning through **TryHackMe, and real-world security projects**
   
 
 ## 🔵 Blue Team & Security Monitoring Interests
